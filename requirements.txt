@@ -1,0 +1,2 @@
+tronpy==0.5.0
+tronlinknet==0.1.0
